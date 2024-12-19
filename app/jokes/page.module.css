@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f2f5;
+}
+
+.topRight {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.card {
+  width: 400px;
+}
